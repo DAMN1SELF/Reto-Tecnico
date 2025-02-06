@@ -2,8 +2,8 @@ El proyecto esta realizado en VS 2022 pero es compatible con versiones anteriore
 Se uso el NET. framework 4.7.2 como se solicito 
 
 Para ejecutar el proyecto solo se debera clonar 
-git init
-git clone https://github.com/DAMN1SELF/Reto-Tecnico.git
+-git init
+-git clone https://github.com/DAMN1SELF/Reto-Tecnico.git
 
 Ejecutar el proyecto
 
